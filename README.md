@@ -1,6 +1,6 @@
-# Online Resume Builder
+# Online Resume Builder by SOUBHAGYA RANJAN SHAOO
 
-This is a MCA final year project for Making resume in web by SOUBHAGAYA RANJAN SHAOO
+This is a MCA final year project for Making resume in web 
 
 ## ⚠️ This project  was made to run  with  Google cloud suites any other setup would require adequate changes to be made to the key files
 
