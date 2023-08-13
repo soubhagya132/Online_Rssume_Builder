@@ -6,8 +6,6 @@ This is a MCA final year project for Making resume in web by SOUBHAGAYA RANJAN S
 
 ## Title: MyResumeBuilder - An Online Resume Building Website
 
-## [Backend Server Setup](./server/README.md)
-
 ### Abstract:
 
 ***MyResumeBuilder*** is a web-based platform designed to simplify the process of creating professional resumes for job seekers. This website provides users with an easy-to-use interface to create, edit, and manage their resumes online. With a lot of well crafted templates, users can tailor their resumes to their specific needs and preferences, and download the finished product in various formats, including PDF and Word documents.
