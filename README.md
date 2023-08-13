@@ -1,4 +1,4 @@
-# Online Resume Builder by SOUBHAGYA RANJAN SHAOO
+# Online Resume Builder by SOUBHAGYA RANJAN MALLICK
 
 This is a MCA final year project for Making resume in web 
 
